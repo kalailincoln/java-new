@@ -1,2 +1,4 @@
 1.add a new file
 2. create a for loop 
+3.create the if loop
+4.run the condition 

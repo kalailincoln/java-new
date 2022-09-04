@@ -2,4 +2,6 @@
 2. create a for loop 
 3.create the if loop
 4.run the condition 
+
 6.check the condition if exceeds 100
+
